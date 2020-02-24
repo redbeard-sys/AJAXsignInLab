@@ -1,0 +1,43 @@
+body{
+  background-color: coral;
+}
+.header{
+  background-color: grey;
+  font-size: 20px;
+  height:60px;
+  color: rgba(0,0,0,0.6);
+text-shadow: 2px 8px 6px rgba(0,0,0,0.2),
+                 0px -5px 35px rgba(255,255,255,0.3);
+}
+h1{
+  text-align: center;
+}
+#signupForm{
+  text-align: center;
+  margin-top: 19px;
+}
+
+#subtn{
+  color: dodgerblue;
+}
+
+#subtn:hover{
+  background: #016ABC;
+  color:#fff;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px #eee;
+}
+#zip{
+  font-family: Arial;
+  margin-top: 4px;
+}
+#city{
+  font-family: Helvetica;
+  color: dodgerblue;
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
